@@ -82,7 +82,7 @@ To create a Power BI dashboard using a sales/financial dataset that includes:
 
 ## 📁 Project Files
 
-- `Half new.pbix` → Power BI dashboard file  
+- `sales dashboard.pbix` → Power BI dashboard file  
 - `my dashboard summary.pptx` → Summary presentation  
 - `TASK 3 DA.pdf` → Task instructions from internship
 
